@@ -18,6 +18,7 @@ h1, .proximoCapitulo{text-align: center;}
     border: 20%;
     text-decoration: none;
     display: block;
+    box-sizing: border-box;
 }
 .AreaLinkProximoCapitulo
 {
